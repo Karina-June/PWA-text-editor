@@ -11,7 +11,6 @@ module.exports = () => {
     mode: 'development',
     entry: {
       main: './src/js/index.js',
-      install: './src/js/install.js'
     },
     output: {
       filename: '[name].bundle.js',
@@ -25,8 +24,8 @@ module.exports = () => {
 
       new InjectManifest(),
       new WebpackPwaManifest({
-        name: 'Editor',
-        short_name: 'Editor',
+        name: 'Jate',
+        short_name: 'Jate',
         description: 'Edit important text!',
         background_color: '#7eb4e2',
         theme_color: '#7eb4e2',
@@ -34,9 +33,9 @@ module.exports = () => {
         publicPath: './',
         icons: [
           {
-            src: path.resolve('assets/images/logo.png'),
+            src: path.resolve('src/images/logo.png'),
             sizes: [96, 128, 192, 256, 384, 512],
-            destination: path.join('assets', 'icons'),
+            destination: path.join('src', 'icons'),
           },
         ],
       }),

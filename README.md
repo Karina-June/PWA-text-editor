@@ -11,7 +11,7 @@
 
 ## Technology Used
 1. webpack-pwa-manifest
-2. 
+ 
 
 ## Installations
 To install webpack-pwa-manifest:
@@ -29,7 +29,7 @@ Application will be invoked using:
 npm run start
 ````
 ## Preview
-
+![homepage](client\src\images\Screenshot.png)
 ## Questions 
 GitHub: [Karina-June](https://github.com/Karina-June)
 

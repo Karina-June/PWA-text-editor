@@ -14,22 +14,17 @@
 2. 
 
 ## Installations
-To install webpack-pwa-manifest
+To install webpack-pwa-manifest:
 ```bash
 npm install --save-dev webpack-pwa-manifest
 ```
 
-To install 
+Then run: 
 ```bash
-npm install 
+npm run build
 ```
 
-To install 
-```bash 
-npm install 
-```
-
-Application will be invoked using
+Application will be invoked using:
 ```bash
 npm run start
 ````

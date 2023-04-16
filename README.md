@@ -11,6 +11,7 @@ View Depolyed [heroku](https://fast-garden-28533.herokuapp.com/)
 
 ## Technology Used
 1. webpack-pwa-manifest
+2. IndexedDB database
  
 
 ## Installations

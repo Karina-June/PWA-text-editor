@@ -30,7 +30,9 @@ Application will be invoked using:
 npm run start
 ````
 ## Preview
-![homepage](client\src\images\Screenshot.png)
+
+![homepage](img\Screenshot.png)
+
 ## Questions 
 GitHub: [Karina-June](https://github.com/Karina-June)
 

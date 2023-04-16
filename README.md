@@ -1,6 +1,6 @@
 # PWA-text-editor
 
-
+View Depolyed [heroku](https://fast-garden-28533.herokuapp.com/)
 
 ## Table of Contents
 

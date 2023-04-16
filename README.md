@@ -31,7 +31,7 @@ npm run start
 ````
 ## Preview
 
-![homepage](img\Screenshot.png)
+![homepage](img/Screenshot.png)
 
 ## Questions 
 GitHub: [Karina-June](https://github.com/Karina-June)
